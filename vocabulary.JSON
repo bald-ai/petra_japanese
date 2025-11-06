@@ -1,0 +1,953 @@
+[
+    {
+      "id": "q1",
+      "type": "vocabulary",
+      "prompt": "日本では、はる·なつ·あき·ふゆの四つの _______ があります。",
+      "passage": null,
+      "choices": [
+        "てんき",
+        "きぶん",
+        "きおん",
+        "きせつ"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "きせつ"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q2",
+      "type": "vocabulary",
+      "prompt": "きのうならったことをもう _______ しまいました。",
+      "passage": null,
+      "choices": [
+        "わすれて",
+        "すてて",
+        "なくして",
+        "とって"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "わすれて"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "prompt": "シャツのうりばは、このうえの３がいです。あの _______ でいってください。",
+      "passage": null,
+      "choices": [
+        "ドア",
+        "タクシー",
+        "サンダル",
+        "エスカレーター"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "エスカレーター"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "prompt": "あまり勉強しなかったので、テストのてんが _______ です。",
+      "passage": null,
+      "choices": [
+        "しんぱい",
+        "きけん",
+        "あんぜん",
+        "あんしん"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "しんぱい"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q5",
+      "type": "vocabulary",
+      "prompt": "おもしろいえいがだと聞いたので、_______ みたいです。",
+      "passage": null,
+      "choices": [
+        "たぶん",
+        "そんなに",
+        "ぜひ",
+        "きゅうに"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "ぜひ"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q6",
+      "type": "vocabulary",
+      "prompt": "たかださんは _______ をしながらだいがくにかよっています。",
+      "passage": null,
+      "choices": [
+        "オートバイ",
+        "デパート",
+        "アルバイト",
+        "カレンダー"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "アルバイト"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "prompt": "はなこさんは白いスカートと _______ をはいています。",
+      "passage": null,
+      "choices": [
+        "セーター",
+        "ハンカチ",
+        "サンダル",
+        "オーバー"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "サンダル"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "prompt": "父はとうきょうへ行くと、いつも _______ をかってきてくれます。",
+      "passage": null,
+      "choices": [
+        "おまつり",
+        "おれい",
+        "おみやげ",
+        "おいわい"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "おみやげ"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "prompt": "あのあたらしい _______ はデパートです。",
+      "passage": null,
+      "choices": [
+        "アパート",
+        "ホテル",
+        "プール",
+        "ビル"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "ビル"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q10",
+      "type": "vocabulary",
+      "prompt": "じゅぎょうがおわってから、まいにち、ピンポンの _______ をします。",
+      "passage": null,
+      "choices": [
+        "しゅみ",
+        "うんどう",
+        "れんしゅう",
+        "しゅうかん"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "れんしゅう"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "prompt": "雨がやっと _______ 。",
+      "passage": null,
+      "choices": [
+        "とまりました",
+        "やみました",
+        "しまりました",
+        "あきました"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "やみました"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "prompt": "つぎのえきでおりて、バスに _______ ください。",
+      "passage": null,
+      "choices": [
+        "かわって",
+        "のりかえて",
+        "ひっこして",
+        "とりかえて"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "のりかえて"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "prompt": "えきからここまでバスでいちじかんで _______ 。",
+      "passage": null,
+      "choices": [
+        "できます",
+        "かかります",
+        "とおれます",
+        "こられます"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "こられます"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q14",
+      "type": "vocabulary",
+      "prompt": "うちには _______ こどもがいて、いつもにぎやかです。",
+      "passage": null,
+      "choices": [
+        "ひくい",
+        "わかい",
+        "ほそい",
+        "ちいさい"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "ちいさい"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "prompt": "たなかさんのしゅみは _______ をすることです。",
+      "passage": null,
+      "choices": [
+        "バレーボール",
+        "カメラ",
+        "タクシー",
+        "ニュース"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "バレーボール"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "prompt": "どこかであかんぼうのなく _______ がします。",
+      "passage": null,
+      "choices": [
+        "みみ",
+        "こえ",
+        "おと",
+        "くち"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "こえ"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q17",
+      "type": "vocabulary",
+      "prompt": "わたしはじてんしゃを _______ もっています。",
+      "passage": null,
+      "choices": [
+        "にだい",
+        "にさい",
+        "にほん",
+        "にまい"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "にだい"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "prompt": "今年、大学に入学することができて、とても _______ です。",
+      "passage": null,
+      "choices": [
+        "おいしかった",
+        "たのしかった",
+        "うれしかった",
+        "ただしかった"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "うれしかった"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q19",
+      "type": "vocabulary",
+      "prompt": "みちをおしえてもらったので、 _______ をいいました。",
+      "passage": null,
+      "choices": [
+        "おれい",
+        "おかげ",
+        "おいわい",
+        "おだいじに"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "おれい"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q20",
+      "type": "vocabulary",
+      "prompt": "わたしのうちへも _______ あそびにきてください。",
+      "passage": null,
+      "choices": [
+        "いちど",
+        "いっこ",
+        "いちばん",
+        "いっけん"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "いちど"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q21",
+      "type": "vocabulary",
+      "prompt": "いとうさんはしごとがおおくて _______ のようです。",
+      "passage": null,
+      "choices": [
+        "あそびすぎ",
+        "はたらきすぎ",
+        "やすみすぎ",
+        "つとめすぎ"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "はたらきすぎ"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q22",
+      "type": "vocabulary",
+      "prompt": "うちのちかくにほんやが _______ あります。",
+      "passage": null,
+      "choices": [
+        "二けん",
+        "二さつ",
+        "二ほん",
+        "二かい"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "二けん"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q23",
+      "type": "vocabulary",
+      "prompt": "わたしは日本に来てから _______ このいえにすんでいます。",
+      "passage": null,
+      "choices": [
+        "もっと",
+        "きっと",
+        "ずっと",
+        "やっと"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "ずっと"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q24",
+      "type": "vocabulary",
+      "prompt": "このみずうみの _______ はどのくらいですか。",
+      "passage": null,
+      "choices": [
+        "ふかさ",
+        "あつさ",
+        "さむさ",
+        "おもさ"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "ふかさ"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q25",
+      "type": "vocabulary",
+      "prompt": "あねは _______ になって、びょういんではたらいています。",
+      "passage": null,
+      "choices": [
+        "かんごふ",
+        "せんせい",
+        "けいかん",
+        "サラリーマン"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "かんごふ"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q26",
+      "type": "vocabulary",
+      "prompt": "おなかがすいていたので、れいぞうこの中の食べ物を _______ 食べてしましました。",
+      "passage": null,
+      "choices": [
+        "すっかり",
+        "びっくり",
+        "ぐっすり",
+        "はっきり"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "すっかり"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q27",
+      "type": "vocabulary",
+      "prompt": "きのうみたえいがはとても _______ です。",
+      "passage": null,
+      "choices": [
+        "うれしかった",
+        "にがかった",
+        "よわかった",
+        "こわかった"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "こわかった"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q28",
+      "type": "vocabulary",
+      "prompt": "もうおそいから、_______ かえりましょう。",
+      "passage": null,
+      "choices": [
+        "そろそろ",
+        "だんだん",
+        "ときどき",
+        "とうとう"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "そろそろ"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q29",
+      "type": "vocabulary",
+      "prompt": "わたしの先生はたいへん _______ です。",
+      "passage": null,
+      "choices": [
+        "すずしい",
+        "みじかい",
+        "ただしい",
+        "きびしい"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "きびしい"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q30",
+      "type": "vocabulary",
+      "prompt": "やさしいしつもんにこたえられなくて、とても _______ 。",
+      "passage": null,
+      "choices": [
+        "はずかしかったです",
+        "すばらしかったです",
+        "すごかったです",
+        "めずらしかったです"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "はずかしかったです"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q31",
+      "type": "vocabulary",
+      "prompt": "きょうしつのかべにきれいなえが _______ あります。",
+      "passage": null,
+      "choices": [
+        "のせて",
+        "かけて",
+        "おいて",
+        "つけて"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "かけて"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q32",
+      "type": "vocabulary",
+      "prompt": "この川のみずはのんでも _______ か。",
+      "passage": null,
+      "choices": [
+        "すみません",
+        "だいじょうぶです",
+        "まにあいます",
+        "できません"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "だいじょうぶです"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q33",
+      "type": "vocabulary",
+      "prompt": "あしたべんきょうするかんじを _______ しておいてください。",
+      "passage": null,
+      "choices": [
+        "けいけん",
+        "よしゅう",
+        "はんたい",
+        "ふくしゅう"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "よしゅう"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q34",
+      "type": "vocabulary",
+      "prompt": "あのかわは _______ だから、あそこでおよいではいけません。",
+      "passage": null,
+      "choices": [
+        "あんぜん",
+        "きけん",
+        "さかん",
+        "じゅうぶん"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "きけん"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q35",
+      "type": "vocabulary",
+      "prompt": "たばこを _______ ほうがいいとともだちにいわれました。",
+      "passage": null,
+      "choices": [
+        "おわった",
+        "しめた",
+        "とまった",
+        "やめた"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "やめた"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q36",
+      "type": "vocabulary",
+      "prompt": "わたしの国はやきゅうが _______ です。",
+      "passage": null,
+      "choices": [
+        "ねっしん",
+        "さかん",
+        "じゅうぶん",
+        "じょうぶ"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "さかん"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q37",
+      "type": "vocabulary",
+      "prompt": "やまだ「おにいさんのびょうきはよくなりましたか。」\nたなか「はい、_______ 。」",
+      "passage": null,
+      "choices": [
+        "おげんきで",
+        "おかげさまで",
+        "ごめんなさい",
+        "ごめんください"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "おかげさまで"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q38",
+      "type": "vocabulary",
+      "prompt": "だれでもテストを _______ のはすきではありません。",
+      "passage": null,
+      "choices": [
+        "とる",
+        "もつ",
+        "うける",
+        "ひろう"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "うける"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q39",
+      "type": "vocabulary",
+      "prompt": "_______ でじどうしゃにガソリンをいれました。",
+      "passage": null,
+      "choices": [
+        "ガソリンコート",
+        "ガソリンテーブル",
+        "ガソリンスタンド",
+        "ガソリンプール"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "ガソリンスタンド"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q40",
+      "type": "vocabulary",
+      "prompt": "きのうからからだのぐあいが _______ 。",
+      "passage": null,
+      "choices": [
+        "いやです",
+        "いたいです",
+        "きらいです",
+        "わるいです"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "わるいです"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q41",
+      "type": "vocabulary",
+      "prompt": "わたしはでんきやでテレビを _______ もらいました。",
+      "passage": null,
+      "choices": [
+        "ならんで",
+        "なおって",
+        "なおして",
+        "ならって"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "なおして"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q42",
+      "type": "vocabulary",
+      "prompt": "これはさとうせんせいがわたしに _______ ほんです。",
+      "passage": null,
+      "choices": [
+        "くださった",
+        "さしあげた",
+        "いただいた",
+        "なさった"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "くださった"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q43",
+      "type": "vocabulary",
+      "prompt": "たなかさんがにゅういんしたので、_______ に行きました。",
+      "passage": null,
+      "choices": [
+        "おみまい",
+        "おいわい",
+        "おまつり",
+        "あいさつ"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "おみまい"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q44",
+      "type": "vocabulary",
+      "prompt": "うちのテレビはふるいので、 _______ こしょうします。",
+      "passage": null,
+      "choices": [
+        "ぜんぜん",
+        "たいへん",
+        "よく",
+        "なかなか"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "よく"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q45",
+      "type": "vocabulary",
+      "prompt": "ゆうべはこわい _______ をみて、よくねむれませんでした。",
+      "passage": null,
+      "choices": [
+        "うそ",
+        "かがみ",
+        "はなし",
+        "ゆめ"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "ゆめ"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q46",
+      "type": "vocabulary",
+      "prompt": "あつかったら、どうぞうわぎを _______ ください。",
+      "passage": null,
+      "choices": [
+        "はずして",
+        "むいて",
+        "すてて",
+        "ぬいで"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "ぬいで"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q47",
+      "type": "vocabulary",
+      "prompt": "わたしはくだものがすきです。 _______ りんごがだいすきです。",
+      "passage": null,
+      "choices": [
+        "とくに",
+        "はっきり",
+        "すっかり",
+        "ほとんど"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "とくに"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q48",
+      "type": "vocabulary",
+      "prompt": "おとうとさんのびょうきがなおるように _______ います。",
+      "passage": null,
+      "choices": [
+        "あやまって",
+        "こまって",
+        "みつかって",
+        "いのって"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "いのって"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q49",
+      "type": "vocabulary",
+      "prompt": "_______ があったら、また日本へ行きたいです。",
+      "passage": null,
+      "choices": [
+        "りゆう",
+        "ばあい",
+        "きかい",
+        "げんいん"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "きかい"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q50",
+      "type": "vocabulary",
+      "prompt": "あたらしいいえにだんだん _______ きました。",
+      "passage": null,
+      "choices": [
+        "はじまって",
+        "おぼえて",
+        "なれて",
+        "すんで"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "なれて"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    }
+  ]
+  

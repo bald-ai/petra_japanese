@@ -1,0 +1,178 @@
+[
+    {
+      "id": "l1_q1",
+      "audio": "n4_1_1.mp3",
+      "jp": "学生が先生に漢字のテストについて聞いています。\n学生：先生、先週の漢字のテストですけど。\n先生：ああ、これですね。\n学生：はい。「犬」という漢字を書いたんですが、どこが間違っているんでしょうか？\n先生：点はここで正しいですか？\n学生：あのう、点は横の線の下ではなくて、上につけましたが。あ、左につけてしまいました。\n（質問）学生が書いた漢字はどれですか？",
+      "en": "A student asks a teacher about a kanji test.\nStudent: Teacher, about last week's kanji test...\nTeacher: Ah, this one.\nStudent: I wrote the kanji for “dog” (犬). Where did I make a mistake?\nTeacher: Is the dot correct here?\nStudent: I put the dot above the horizontal line, not below. Ah, I put it on the left.\n(Question) Which is the kanji the student wrote?",
+      "answer": 2
+    },
+    {
+      "id": "l1_q2",
+      "audio": "n4_1_2.mp3",
+      "jp": "女の人と男の人がホテルで話しています。\n女：そろそろ夕飯の時間ね。\n男：そうだね。僕は先にお風呂に入ろうかな。まだそんなにお腹が空いてないし。\n女：私は散歩でもしてくるわ。\n男：ああ、散歩もいいね。僕も一緒に行くよ。\n女：そう。\n男：お風呂は夕食の後にするよ。\n（質問）男の人はこれからどうしますか？",
+      "en": "A woman and a man are talking at a hotel.\nWoman: It's almost dinner time.\nMan: I think I'll bathe first. I'm not that hungry.\nWoman: I'm going for a walk.\nMan: A walk sounds good. I'll go with you.\nWoman: Really?\nMan: I’ll bathe after dinner.\n(Question) What will the man do now?",
+      "answer": 3
+    },
+    {
+      "id": "l1_q3",
+      "audio": "n4_1_3.mp3",
+      "jp": "男の人が外国にいる女の人と電話で話しています。\n男：今、そっちは何時？\n女：8時50分。\n男：へえ。日本も今8時50分だよ。\n女：ええ？同じ？\n男：でも、こっちは夜だよ。夜の8時50分。\n女：なんだ。\n（質問）女の人の国は今何時ですか？",
+      "en": "A man is on the phone with a woman abroad.\nMan: What time is it there?\nWoman: 8:50.\nMan: It’s 8:50 in Japan too.\nWoman: The same?\nMan: But here it’s 8:50 at night.\nWoman: Oh, I see.\n(Question) What time is it in the woman’s country now?",
+      "answer": 1
+    },
+    {
+      "id": "l1_q4",
+      "audio": "n4_1_4.mp3",
+      "jp": "男の人と女の人が話しています。\n男：今週の金曜日か土曜日、映画に行かない？\n女：今週か。3日か4日ね。\n男：僕は土曜日より金曜日の方がいいな。\n女：じゃあ、3日？ちょっと手帳を見るね。ああ、ごめん。今週はだめだ。\n男：来週は？\n女：来週はいいよ。\n男：じゃあ、金曜日ね。\n女：楽しみにしてるよ。\n（質問）二人はいつ映画に行きますか？",
+      "en": "A man and a woman are talking.\nMan: This Friday or Saturday, want to see a movie?\nWoman: So the 3rd or 4th.\nMan: I prefer Friday.\nWoman: Then the 3rd? Let me check. Sorry, this week is no good.\nMan: How about next week?\nWoman: Next week is fine.\nMan: Then Friday.\nWoman: Looking forward to it.\n(Question) When will they go to the movies?",
+      "answer": 3
+    },
+    {
+      "id": "l1_q5",
+      "audio": "n4_1_5.mp3",
+      "jp": "女の人と男の人が話しています。\n女：このカバン、外側にポケットがたくさんあって便利そうね。\n男：どこに何を入れたか忘れてしまうよ。外側のポケットは一つか二つあればいいんだよ。\n女：そうね。じゃあ、これかこれね。このポケットは大きいからたくさん入るわね。\n男：でも、入れすぎて中のものが見つけにくいかもしれない。\n女：そうね。決めた。こっちにする。\n（質問）女の人はどのカバンを買うことにしましたか？",
+      "en": "A woman and a man are talking.\nWoman: This bag has many outside pockets. Looks convenient.\nMan: I’d forget where I put things. One or two outside pockets is enough.\nWoman: Then this one or this one. This pocket is big, so it holds a lot.\nMan: If you put too much in, it may be hard to find things.\nWoman: True. I’ve decided. I’ll take this one.\n(Question) Which bag did the woman decide to buy?",
+      "answer": 4
+    },
+    {
+      "id": "l2_q1",
+      "audio": "n4_1_6.mp3",
+      "jp": "男の人と店員が話しています。\n男：友達が結婚するので、プレゼントを探しているんですけど。\n店員：では、こちらはいかがでしょうか？\n男：割れたり壊れたりしにくいものがいいんです。\n店員：では、こちらはいかがでしょうか？この葉が部屋をきれいにするそうです。\n男：緑が部屋にあるのはいいですね。じゃあ、これにします。\n（質問）男の人はどれにすると言っていますか？",
+      "en": "A man and a store clerk are talking.\nMan: I’m looking for a wedding present for a friend.\nClerk: How about this?\nMan: I’d like something that doesn’t break easily.\nClerk: Then how about this? These leaves purify the room.\nMan: Nice to have some green. I’ll take this.\n(Question) Which one does the man choose?",
+      "answer": 1
+    },
+    {
+      "id": "l2_q2",
+      "audio": "n4_1_7.mp3",
+      "jp": "男の人と女の人が昨日の散歩について話しています。\n女：昨日、山へ行ったの。とても楽しかった。\n男：よかったね。お天気もよかったし。\n女：いいえ。山は雨だったの。でも、犬は雨が好きだから、一緒に散歩したの。\n男：友達も一緒？\n女：ううん。友達は行かなかった。\n（質問）女の人の話について、正しい絵はどれですか？",
+      "en": "A man and a woman talk about yesterday’s walk.\nWoman: I went to the mountain. It was fun.\nMan: The weather was nice.\nWoman: No, it was raining there. But my dog likes rain, so we walked together.\nMan: With your friend too?\nWoman: No, my friend didn’t go.\n(Question) Which picture matches the woman’s story?",
+      "answer": 2
+    },
+    {
+      "id": "l2_q3",
+      "audio": "n4_1_8.mp3",
+      "jp": "男の学生と女の学生が駅で話しています。\n男：おはよう。すごい雨だね。\n女：田中君、バスで来た？\n男：ううん。車。母に駅まで送ってもらったんだ。今日は特別。いつもは自転車かバス。本当は歩きたいけど時間がなくて。\n女：私は毎日歩くんだ。\n男：歩くのは気持ちいいね。\n女：でも、こんな天気の日はね。\n（質問）男の学生は今日どうやって駅まで来ましたか？",
+      "en": "A male and a female student talk at the station.\nMale: Morning. Heavy rain today.\nFemale: Did you come by bus?\nMale: No, by car. My mother drove me. Today is special; usually bicycle or bus. I’d like to walk but no time.\nFemale: I walk every day.\nMale: Walking feels good.\nFemale: Not on a day like this.\n(Question) How did the male student get to the station today?",
+      "answer": 1
+    },
+    {
+      "id": "l2_q4",
+      "audio": "n4_1_9.mp3",
+      "jp": "女の人と男の人が話しています。\n女：テーブルに物を並べて、何してるんですか？\n男：写真を撮ろうと思っているんです。うーん、なんか変だなあ。\n女：船を車に変えたらどうですか？\n男：そうですね。車の方がかっこいいかもしれない。\n女：そうですね。\n男：ここに人形を座らせるとどうかな？\n女：それより立たせた方がいいですよ。\n男：あ、そうですね。いいですね。これだ。\n（質問）男の人はどんな写真を撮りましたか？",
+      "en": "A woman and a man are talking.\nWoman: What are you doing lining things up?\nMan: I’m going to take a photo. Something looks odd.\nWoman: How about replacing the ship with a car?\nMan: The car might look cooler.\nWoman: Yes.\nMan: How about seating the doll here?\nWoman: Better to stand it up.\nMan: You’re right. This is it.\n(Question) What kind of picture did the man take?",
+      "answer": 4
+    },
+    {
+      "id": "l2_q5",
+      "audio": "n4_1_10.mp3",
+      "jp": "医者と男の人が話しています。\n男：泳いだり走ったりテニスをしたり、一日に続けてやってもいいですか？\n医者：走ったりテニスをしたりしてから泳ぐのは危ないですよ。水泳をしてから他の運動ならいいです。とにかく、たくさん運動した後で水泳はやめましょう。\n（質問）体に良くないやり方はどれですか？",
+      "en": "A doctor and a man are talking.\nMan: Is it okay to swim, run and play tennis consecutively in one day?\nDoctor: Swimming after running or tennis is dangerous. Swimming first then other exercise is fine. Avoid swimming after lots of exercise.\n(Question) Which method is bad for the body?",
+      "answer": 1
+    },
+    {
+      "id": "l3_q1",
+      "audio": "n4_1_11.mp3",
+      "jp": "男の人と女の人が話しています。\n男：このコピーは何枚用意すればよろしいでしょうか？\n女：会議は30人だけど、それより10枚多くコピーしておいてくれる？\n男：わかりました。\n（質問）男の人はコピーを何枚用意しますか？",
+      "en": "A man and a woman are talking.\nMan: How many copies should I make?\nWoman: There are 30 attendees. Make 10 more than that.\nMan: Understood.\n(Question) How many copies will the man prepare?",
+      "answer": 4
+    },
+    {
+      "id": "l3_q2",
+      "audio": "n4_1_12.mp3",
+      "jp": "会社で電話の会話です。\n男：僕の机の上に青いノートある？\n女：いいえ。\n男：やっぱりコピー室に置いたままだ。コピー室に行って、ノートがあるか見てきてくれる？あったらすぐ会議室に持ってきて。なかったら会議室に電話して。\n女：はい、わかりました。\n（質問）女の人はこの後すぐ、何をしなければなりませんか？",
+      "en": "Phone call at a company.\nMan: Is there a blue notebook on my desk?\nWoman: No.\nMan: Then I left it in the copy room. Please go check the copy room; if it’s there, bring it to the conference room. If not, call the conference room.\nWoman: Understood.\n(Question) What must the woman do immediately after this?",
+      "answer": 1
+    },
+    {
+      "id": "l3_q3",
+      "audio": "n4_1_13.mp3",
+      "jp": "男の人と女の人が話しています。\n男：ひろしさんが怪我で入院したそうですね。\n女：ひろしさんじゃなくて、奥さんですよ。手の怪我です。\n男：よく知っていますね。\n女：昨日お見舞いに行きましたから。\n（質問）正しいのはどれですか？",
+      "en": "A man and a woman are talking.\nMan: I heard Hiroshi was hospitalized.\nWoman: Not Hiroshi, his wife. It’s her hand.\nMan: You know a lot.\nWoman: I visited yesterday.\n(Question) Which statement is correct?",
+      "answer": 3
+    },
+    {
+      "id": "l3_q4",
+      "audio": "n4_1_14.mp3",
+      "jp": "会社での会話です。\n男：寒いですね。\n女：本当。天気も悪いし。雨が降りそうな天気ですね。\n男：今夜は雪になるそうですよ。\n（質問）今、どんな天気ですか？",
+      "en": "At the office.\nMan: It’s cold.\nWoman: And the weather is bad. Looks like rain.\nMan: They say it may snow tonight.\n(Question) What is the weather like now?",
+      "answer": 2
+    },
+    {
+      "id": "l3_q5",
+      "audio": "n4_1_15.mp3",
+      "jp": "男の人と女の人が歯医者について話しています。\n女：受付は優しいし機械も新しいけど、お医者さんがね…\n男：昨日2時間も待たされたし、とても痛かった。他の歯医者に行ったほうがいいね。\n女：うん。そうね。\n（質問）二人はこの歯医者についてどう思っていますか？",
+      "en": "Talking about a dentist.\nWoman: Reception is kind and equipment is new, but the doctor…\nMan: I waited 2 hours and it hurt a lot. Better to go elsewhere.\nWoman: Yeah.\n(Question) What do they think about this dentist?",
+      "answer": 4
+    },
+    {
+      "id": "l4_q1",
+      "audio": "n4_1_16.mp3",
+      "jp": "男の人と女の人が話しています。\n男：そのカップ、いいですね。どこで買ったんですか？\n女：これはおばが母に作ってくれたものなんです。私のじゃないんですよ。\n男：おばさん、とても上手ですね。\n（質問）誰がカップをもらいましたか？",
+      "en": "A man and a woman are talking.\nMan: Nice cup. Where did you buy it?\nWoman: My aunt made it for my mother. It’s not mine.\nMan: Your aunt is very skilled.\n(Question) Who received the cup?",
+      "answer": 2
+    },
+    {
+      "id": "l4_q2",
+      "audio": "n4_1_17.mp3",
+      "jp": "女の人が話しています。\n女：帰りは3時半に公園の入り口に集まってください。でも、もし雨が降ったら30分早く、そして公園の入り口ではなく美術館の前に集まってください。\n（質問）雨が降ったら、どうしますか？",
+      "en": "A woman is speaking.\nWoman: Gather at the park entrance at 3:30. If it rains, gather 30 minutes earlier in front of the art museum instead.\n(Question) What will they do if it rains?",
+      "answer": 4
+    },
+    {
+      "id": "l4_q3",
+      "audio": "n4_1_18.mp3",
+      "jp": "子供とお母さんが話しています。\n子供：頭が痛い。\n母：熱は？\n子供：ない。\n母：お腹は？\n子供：朝ちょっと痛かったけど、もう治った。\n（質問）この男の子は今、どんな具合ですか？",
+      "en": "A child and his mother are talking.\nChild: My head hurts.\nMother: Do you have a fever?\nChild: No.\nMother: Your stomach?\nChild: It hurt a little this morning, but it’s fine now.\n(Question) How is the boy feeling now?",
+      "answer": 1
+    },
+    {
+      "id": "l4_q4",
+      "audio": "n4_1_19.mp3",
+      "jp": "お母さんと男の子が話しています。\n母：あまり食べていないわね。\n子：うん…\n母：お腹でも痛いの？\n子：違うよ。さっき一郎くんの家でお菓子をたくさん食べたんだ。\n母：だからお腹が空いていないのね。\n（質問）男の子はどうして少ししか晩ご飯を食べないのですか？",
+      "en": "A mother and her son are talking.\nMother: You’re not eating much.\nSon: Yeah…\nMother: Does your stomach hurt?\nSon: No. I ate lots of snacks at Ichiro’s house.\nMother: So you’re not hungry.\n(Question) Why is he eating only a little dinner?",
+      "answer": 4
+    },
+    {
+      "id": "l4_q5",
+      "audio": "n4_1_20.mp3",
+      "jp": "女の人と男の人が話しています。\n女：これが薬です。1日3回、食事の後に飲んでください。\n男：朝ごはんを食べない時は2回でもいいですか？\n女：きちんと1日3回飲まなければ治りませんよ。朝ごはんもちゃんと食べてくださいね。\n（質問）男の人は薬をどのように飲まなければなりませんか？",
+      "en": "A woman and a man are talking.\nWoman: Here is your medicine. Take it three times a day after meals.\nMan: If I skip breakfast, is twice okay?\nWoman: No, take it three times a day properly. And eat breakfast.\n(Question) How must the man take his medicine?",
+      "answer": 4
+    },
+    {
+      "id": "l5_q1",
+      "audio": "n4_1_21.mp3",
+      "jp": "男の人と女の人が話しています。\n男：ドアを閉めましょうか？\n女：いえ、開けておいてください。でも、電気は消していきましょう。\n（質問）部屋はどうなりましたか？",
+      "en": "A man and a woman are talking.\nMan: Shall I close the door?\nWoman: Leave it open, but let’s turn off the light.\n(Question) What became of the room?",
+      "answer": 3
+    },
+    {
+      "id": "l5_q2",
+      "audio": "n4_1_22.mp3",
+      "jp": "男の人と女の人が話しています。\n男：全部で1600円です。\n女：はい。\n男：あれ？50円足りませんよ。\n（質問）女の人は初めにいくら出しましたか？",
+      "en": "A man and a woman are talking.\nMan: The total is 1600 yen.\nWoman: Here you go.\nMan: You’re 50 yen short.\n(Question) How much did the woman give at first?",
+      "answer": 4
+    },
+    {
+      "id": "l5_q3",
+      "audio": "n4_1_23.mp3",
+      "jp": "男の人と女の人が話しています。\n男：今晩のパーティー、8時半からだね。\n女：始まる前に15〜20分お茶してから行かない？\n男：じゃあ、30分前に会おうか。\n女：そうしましょう。\n（質問）二人は何時に会いますか？",
+      "en": "A man and a woman are talking.\nMan: Tonight’s party starts at 8:30.\nWoman: Let’s have tea 15–20 minutes before it starts.\nMan: Then meet 30 minutes before.\nWoman: Let’s do that.\n(Question) What time will they meet?",
+      "answer": 1
+    },
+    {
+      "id": "l5_q4",
+      "audio": "n4_1_24.mp3",
+      "jp": "女の人が話しています。\n女：うちの猫がいなくなりました。体が白くて毛が長く、後ろの足だけ黒い猫です。見た人は教えてください。\n（質問）いなくなった猫はどの猫ですか？",
+      "en": "A woman is speaking.\nWoman: My cat is missing. It’s long-haired, white body, with only the back legs black. Please contact me if seen.\n(Question) Which cat is missing?",
+      "answer": 1
+    },
+    {
+      "id": "l5_q5",
+      "audio": "n4_1_25.mp3",
+      "jp": "男の人と女の人が写真を見ながら話しています。\n男：家族みんなで撮った写真。\n女：上のお嬢さんたち二人はお母さんより大きいですね。高校生ですか？\n男：まだ中学生。上が3年、下が1年。この大きい方が妹なんですよ。もうすぐ僕より高くなりそう。\n（質問）この男の人の一番上の娘はどの人ですか？",
+      "en": "Looking at a photo.\nWoman: Your two older daughters are taller than their mother. High school?\nMan: No, both in middle school. The older is 3rd year, the younger 1st. The taller one here is the younger sister.\n(Question) Which person is the man’s oldest daughter?",
+      "answer": 2
+    }
+  ]
+  

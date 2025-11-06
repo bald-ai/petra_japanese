@@ -1,0 +1,952 @@
+[
+    {
+      "id": "q1",
+      "type": "kanji",
+      "prompt": "自分",
+      "passage": null,
+      "choices": [
+        "じぶん",
+        "ちっぷん",
+        "じっぷん",
+        "ちぶん"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "じぶん"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q2",
+      "type": "kanji",
+      "prompt": "旅行",
+      "passage": null,
+      "choices": [
+        "りゅうこ",
+        "りょうこ",
+        "りょこう",
+        "りゅこう"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "りょこう"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q3",
+      "type": "kanji",
+      "prompt": "計画",
+      "passage": null,
+      "choices": [
+        "けいかく",
+        "けいが",
+        "げいかく",
+        "けが"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "けいかく"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q4",
+      "type": "kanji",
+      "prompt": "楽しい",
+      "passage": null,
+      "choices": [
+        "うれしい",
+        "うつくしい",
+        "たのしい",
+        "いそがしい"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "たのしい"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q5",
+      "type": "kanji",
+      "prompt": "地下鉄",
+      "passage": null,
+      "choices": [
+        "じげてつ",
+        "じがてつ",
+        "ちげてつ",
+        "ちかてつ"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "ちかてつ"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q6",
+      "type": "kanji",
+      "prompt": "大学",
+      "passage": null,
+      "choices": [
+        "たいがく",
+        "だいかく",
+        "たいかく",
+        "だいがく"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "だいがく"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q7",
+      "type": "kanji",
+      "prompt": "通って",
+      "passage": null,
+      "choices": [
+        "かえって",
+        "かよって",
+        "かおって",
+        "いって"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "かよって"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q8",
+      "type": "kanji",
+      "prompt": "姉",
+      "passage": null,
+      "choices": [
+        "いもうと",
+        "おとうと",
+        "あね",
+        "あに"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "あね"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q9",
+      "type": "kanji",
+      "prompt": "食事",
+      "passage": null,
+      "choices": [
+        "しょくじ",
+        "しょうじ",
+        "そうじ",
+        "そくじ"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "しょくじ"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q10",
+      "type": "kanji",
+      "prompt": "用意",
+      "passage": null,
+      "choices": [
+        "よい",
+        "ようい",
+        "よじ",
+        "ようじ"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "ようい"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q11",
+      "type": "kanji",
+      "prompt": "うごかない",
+      "passage": null,
+      "choices": [
+        "動かない",
+        "働かない",
+        "重かない",
+        "衝かない"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "動かない"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q12",
+      "type": "kanji",
+      "prompt": "都",
+      "passage": null,
+      "choices": [
+        "みなと",
+        "ふるさと",
+        "みやこ",
+        "いなか"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "みやこ"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q13",
+      "type": "kanji",
+      "prompt": "趣味",
+      "passage": null,
+      "choices": [
+        "しゅみ",
+        "きょうみ",
+        "ちゅみ",
+        "ちょうみ"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "しゅみ"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q14",
+      "type": "kanji",
+      "prompt": "きゅうに",
+      "passage": null,
+      "choices": [
+        "早に",
+        "速に",
+        "突に",
+        "急に"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "急に"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q15",
+      "type": "kanji",
+      "prompt": "お見舞い",
+      "passage": null,
+      "choices": [
+        "おみあい",
+        "おみまい",
+        "おけんまい",
+        "おけんあい"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "おみまい"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q16",
+      "type": "kanji",
+      "prompt": "かわいて",
+      "passage": null,
+      "choices": [
+        "乾いて",
+        "変いて",
+        "掛いて",
+        "渇いて"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "渇いて"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q17",
+      "type": "kanji",
+      "prompt": "優しい",
+      "passage": null,
+      "choices": [
+        "きびしい",
+        "やさしい",
+        "たのしい",
+        "したしい"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "やさしい"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q18",
+      "type": "kanji",
+      "prompt": "人形",
+      "passage": null,
+      "choices": [
+        "にんけい",
+        "じんけい",
+        "にんぎょう",
+        "じんぎょう"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "にんぎょう"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q19",
+      "type": "kanji",
+      "prompt": "物語",
+      "passage": null,
+      "choices": [
+        "ものはなし",
+        "ものばなし",
+        "ものかたり",
+        "ものがたり"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "ものがたり"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q20",
+      "type": "kanji",
+      "prompt": "さびしい",
+      "passage": null,
+      "choices": [
+        "悲しい",
+        "厳しい",
+        "美しい",
+        "寂しい"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "寂しい"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q21",
+      "type": "kanji",
+      "prompt": "海",
+      "passage": null,
+      "choices": [
+        "うみ",
+        "あめ",
+        "かぜ",
+        "うた"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "うみ"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q22",
+      "type": "kanji",
+      "prompt": "強い",
+      "passage": null,
+      "choices": [
+        "おもい",
+        "あまい",
+        "すごい",
+        "つよい"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "つよい"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q23",
+      "type": "kanji",
+      "prompt": "風",
+      "passage": null,
+      "choices": [
+        "かべ",
+        "かばん",
+        "かぜ",
+        "かぎ"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "かぜ"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q24",
+      "type": "kanji",
+      "prompt": "魚",
+      "passage": null,
+      "choices": [
+        "こめ",
+        "さかな",
+        "にく",
+        "やさい"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "さかな"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q25",
+      "type": "kanji",
+      "prompt": "夕飯",
+      "passage": null,
+      "choices": [
+        "ちゅうはん",
+        "ゆうはん",
+        "ちゅうしょく",
+        "ゆうしょく"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "ゆうはん"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q26",
+      "type": "kanji",
+      "prompt": "使った",
+      "passage": null,
+      "choices": [
+        "つかった",
+        "つくった",
+        "はって",
+        "きった"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "つかった"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q27",
+      "type": "kanji",
+      "prompt": "料理",
+      "passage": null,
+      "choices": [
+        "りょり",
+        "りょいり",
+        "りょうり",
+        "りょおい"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "りょうり"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q28",
+      "type": "kanji",
+      "prompt": "教室",
+      "passage": null,
+      "choices": [
+        "きょうじつ",
+        "きゅうしつ",
+        "きゅうじつ",
+        "きょうしつ"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "きょうしつ"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q29",
+      "type": "kanji",
+      "prompt": "歌",
+      "passage": null,
+      "choices": [
+        "うた",
+        "おた",
+        "きえ",
+        "こえ"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "うた"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q30",
+      "type": "kanji",
+      "prompt": "閉めて",
+      "passage": null,
+      "choices": [
+        "あめて",
+        "とめて",
+        "しめて",
+        "やめて"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "しめて"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q31",
+      "type": "kanji",
+      "prompt": "電話代",
+      "passage": null,
+      "choices": [
+        "でんわきん",
+        "でんわちん",
+        "でんわりょう",
+        "でんわだい"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "でんわだい"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q32",
+      "type": "kanji",
+      "prompt": "夜",
+      "passage": null,
+      "choices": [
+        "ひる",
+        "よる",
+        "あさ",
+        "ばん"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "よる"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q33",
+      "type": "kanji",
+      "prompt": "間",
+      "passage": null,
+      "choices": [
+        "あいだ",
+        "うち",
+        "ま",
+        "かん"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "あいだ"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q34",
+      "type": "kanji",
+      "prompt": "安い",
+      "passage": null,
+      "choices": [
+        "やすい",
+        "うまい",
+        "ちかい",
+        "かるい"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "やすい"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q35",
+      "type": "kanji",
+      "prompt": "母親",
+      "passage": null,
+      "choices": [
+        "ちちおや",
+        "ぼしん",
+        "ははおや",
+        "ふしん"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "ははおや"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q36",
+      "type": "kanji",
+      "prompt": "台所",
+      "passage": null,
+      "choices": [
+        "たいこころ",
+        "だいところ",
+        "たいこどろ",
+        "だいどころ"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "だいどころ"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q37",
+      "type": "kanji",
+      "prompt": "食堂",
+      "passage": null,
+      "choices": [
+        "しょっとう",
+        "しょくどう",
+        "しょくとう",
+        "しょうどう"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "しょくどう"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q38",
+      "type": "kanji",
+      "prompt": "家族",
+      "passage": null,
+      "choices": [
+        "かぞく",
+        "かてい",
+        "やてい",
+        "やぞく"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "かぞく"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q39",
+      "type": "kanji",
+      "prompt": "楽しそう",
+      "passage": null,
+      "choices": [
+        "かなしそう",
+        "たのしそう",
+        "うれしそう",
+        "らくしょそう"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "たのしそう"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q40",
+      "type": "kanji",
+      "prompt": "会話",
+      "passage": null,
+      "choices": [
+        "かいわ",
+        "かいばなし",
+        "かいだん",
+        "かいけい"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "かいわ"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q41",
+      "type": "kanji",
+      "prompt": "お兄さん",
+      "passage": null,
+      "choices": [
+        "おねえさん",
+        "おにいさん",
+        "おにさん",
+        "おねさん"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "おにいさん"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q42",
+      "type": "kanji",
+      "prompt": "建物",
+      "passage": null,
+      "choices": [
+        "たてもの",
+        "けんぶつ",
+        "けんもの",
+        "たてぶつ"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "たてもの"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q43",
+      "type": "kanji",
+      "prompt": "出口",
+      "passage": null,
+      "choices": [
+        "でるぐち",
+        "でるくち",
+        "でくち",
+        "でぐち"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "でぐち"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q44",
+      "type": "kanji",
+      "prompt": "茶色",
+      "passage": null,
+      "choices": [
+        "くさいろ",
+        "みずいろ",
+        "きいろ",
+        "ちゃいろ"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "ちゃいろ"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q45",
+      "type": "kanji",
+      "prompt": "服",
+      "passage": null,
+      "choices": [
+        "くつ",
+        "ふく",
+        "かさ",
+        "ぼうし"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "ふく"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q46",
+      "type": "kanji",
+      "prompt": "着て",
+      "passage": null,
+      "choices": [
+        "かぶって",
+        "ついて",
+        "きて",
+        "はいて"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "きて"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q47",
+      "type": "kanji",
+      "prompt": "町",
+      "passage": null,
+      "choices": [
+        "まち",
+        "むら",
+        "とし",
+        "へん"
+      ],
+      "answer": {
+        "position": 1,
+        "text": "まち"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q48",
+      "type": "kanji",
+      "prompt": "人口",
+      "passage": null,
+      "choices": [
+        "ひとくち",
+        "にんこう",
+        "じんこう",
+        "にんくち"
+      ],
+      "answer": {
+        "position": 3,
+        "text": "じんこう"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q49",
+      "type": "kanji",
+      "prompt": "去年",
+      "passage": null,
+      "choices": [
+        "さくねん",
+        "さつねん",
+        "きょうねん",
+        "きょねん"
+      ],
+      "answer": {
+        "position": 4,
+        "text": "きょねん"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    },
+    {
+      "id": "q50",
+      "type": "kanji",
+      "prompt": "多く",
+      "passage": null,
+      "choices": [
+        "おもく",
+        "おおく",
+        "おうく",
+        "おおきく"
+      ],
+      "answer": {
+        "position": 2,
+        "text": "おおく"
+      },
+      "audio": null,
+      "transcript": null,
+      "chunks": []
+    }
+  ]
