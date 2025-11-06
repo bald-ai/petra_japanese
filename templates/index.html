@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <div class="card">
+    <h1>Welcome to the Petra Japanese Lesson Hub</h1>
+    <p>
+      Explore five focused lesson types covering core JLPT N4 style practice sets.
+      Each section pulls directly from the curated JSON banks so you can extend or update
+      the content without touching the templates.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>Pick a Lesson</h2>
+    <ul class="choices">
+      {% for key, label in lesson_names.items() %}
+        <li>
+          <a href="{{ url_for('lesson_page', lesson_key=key) }}">{{ label }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+    <p>
+      Listening activities include built-in audio playback and supporting imagery.
+      Reading passages keep the original Japanese alongside comprehension questions.
+      Grammar, vocabulary, and kanji drills render as quick-reference cards.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>Keeping Content Fresh</h2>
+    <p>
+      Add more questions by appending to the JSON files in the project root. Reload the Flask
+      server to see the new material immediately.
+    </p>
+  </div>
+{% endblock %}

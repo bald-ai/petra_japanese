@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <div class="card">
+    <h1>{{ lesson_name }} Practice</h1>
+    <p>
+      Read each passage carefully, then answer the follow-up questions. Answers are hidden
+      in collapsible sections so you can self-check when ready.
+    </p>
+  </div>
+
+  {% for passage in items %}
+    <div class="card">
+      <h2>{{ passage.title or ('Passage ' ~ loop.index) }}</h2>
+      {% if passage.passage %}
+        <p>{{ passage.passage | replace('\n', '<br>') | safe }}</p>
+      {% endif %}
+
+      {% for question in passage.questions %}
+        <div class="card" style="background:#f8fafc; box-shadow:none; padding:1rem; margin-top:1rem;">
+          <h3>Question {{ loop.index }}</h3>
+          <p><strong>{{ question.prompt | replace('\n', '<br>') | safe }}</strong></p>
+          {% if question.choices %}
+            <ol class="choices" type="a">
+              {% for choice in question.choices %}
+                <li>{{ choice }}</li>
+              {% endfor %}
+            </ol>
+          {% endif %}
+          <details>
+            <summary>Show answer</summary>
+            <p>
+              {% if question.answer_position %}
+                Choice {{ question.answer_position }}:
+              {% endif %}
+              {{ question.answer_text or 'No answer provided.' }}
+            </p>
+          </details>
+        </div>
+      {% endfor %}
+    </div>
+  {% endfor %}
+{% endblock %}

@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <div class="card">
+    <h1>{{ lesson_name }} Practice</h1>
+    <p>
+      Work through each prompt, consider the best answer, then open the answer reveal to check your choice.
+      Update <code>{{ lesson_key }}.JSON</code> to keep the deck growing.
+    </p>
+  </div>
+
+  {% for item in items %}
+    <div class="card">
+      <h2>Question {{ loop.index }}</h2>
+      {% if item.passage %}
+        <p>{{ item.passage | replace('\n', '<br>') | safe }}</p>
+      {% endif %}
+      <p><strong>{{ item.prompt | replace('\n', '<br>') | safe }}</strong></p>
+      {% if item.choices %}
+        <ol class="choices" type="a">
+          {% for choice in item.choices %}
+            <li>{{ choice }}</li>
+          {% endfor %}
+        </ol>
+      {% endif %}
+      <details>
+        <summary>Show answer</summary>
+        <p>
+          {% if item.answer_position %}
+            Choice {{ item.answer_position }}:
+          {% endif %}
+          {{ item.answer_text or 'No answer provided.' }}
+        </p>
+      </details>
+    </div>
+  {% endfor %}
+{% endblock %}
